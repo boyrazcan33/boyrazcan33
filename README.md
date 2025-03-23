@@ -1,4 +1,7 @@
-## Hi there 👋
+## 🏆 Achievements
+
+[![AWS Cloud Quest](https://img.shields.io/badge/AWS-Cloud_Quest_Practitioner-blue?style=flat&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/f6992bcf-b244-4ada-afcd-6bda1da7020e/public_url)
+
 
 <!--
 **boyrazcan33/boyrazcan33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
