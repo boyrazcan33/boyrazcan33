@@ -1,6 +1,9 @@
 ## 🏆 Achievements
 
-[![AWS Cloud Quest](https://img.shields.io/badge/AWS-Cloud_Quest_Practitioner-blue?style=flat&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/f6992bcf-b244-4ada-afcd-6bda1da7020e/public_url)
+<a href="https://www.credly.com/badges/f6992bcf-b244-4ada-afcd-6bda1da7020e/public_url">
+  <img src="https://images.credly.com/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" width="60" alt="AWS Cloud Quest Badge"/>
+</a>
+
 
 
 <!--
